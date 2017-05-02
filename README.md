@@ -7,5 +7,5 @@ Simple Images to be used for indicating if a build is passing or failing
 [Link](https://raw.githubusercontent.com/Calder-Ty/BuildImgs/master/Failing.png)
 
 **Passing**
-![Passing](https://raw.githubusercontent.com/Calder-Ty/BuildImgs/master/Passing.png)
-[link](https://raw.githubusercontent.com/Calder-Ty/BuildImgs/master/Passing.png)
+![Passing](https://raw.githubusercontent.com/Calder-Ty/BuildImgs/master/passing.png)
+[link](https://raw.githubusercontent.com/Calder-Ty/BuildImgs/master/passing.png)
